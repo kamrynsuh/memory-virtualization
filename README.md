@@ -2,7 +2,7 @@
 This project evaluate how real applications respond to a variety of page replacement algorithms. We created a memory simulator and evaluate memory performance using provided traces from real applications. Memory traces include: bzip.trace and sixpack.trace. The page replacement algorithms that were apart of this memory simulator include: FIFO, LRU, and Segmented FIFO.
 ### Names
 All coding and few parts of the report by Kamryn Suh
-Report by Sophia Hostetler
+Report by Sophia H.
 
 ## How to run the project
 Necessary files to compile the program: memsim.cpp fifo.cpp lru.cpp vms.cpp policies.h bzip.trace sixpack.trace
